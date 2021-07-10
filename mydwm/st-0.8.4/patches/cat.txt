@@ -1,0 +1,17 @@
+http://st.suckless.org/patches/dracula/st-dracula-0.8.2.diff 让st有颜色
+
+alpha 终端透明
+
+http://st.suckless.org/patches/anysize/st-anysize-0.8.4.diff
+
+http://st.suckless.org/patches/anysize/st-anysize-0.8.1.diff   自动占满屏幕
+
+
+http://st.suckless.org/patches/hidecursor/st-hidecursor-0.6.diff
+
+http://st.suckless.org/patches/hidecursor/st-hidecursor-0.8.diff
+
+http://st.suckless.org/patches/hidecursor/st-hidecursor-0.8.3.diff
+
+每当按下一个键时隐藏 X 光标，并在终端窗口中移动鼠标时将其显示回来。
+

@@ -1,0 +1,6 @@
+alpha 透明效果 yes
+autostart  自启动脚本 yes
+fullscreen  全屏  空格加f yes
+hide_vacant 只显示有窗口的标签 yes
+rotatestack 窗口交换位置 yes
+scratchpad 临时终端 默认键绑定是 MODKEY+XK_grave yes
