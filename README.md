@@ -1,0 +1,2 @@
+# mydwm
+my dwm config
